@@ -19,11 +19,21 @@
             <button id="clearButton">Clear</button>
         </div>
     </header>
+    <div class="generated-text-container">
+        <div class="timer" id="timer">00:00</div>
+        <p class="generated-text" id="generatedText">Loading text...</p>
+    </div>
+   <div>
+   <button id="backspaceButton" class="backspace-button">Backspace</button>
+</div>
 
     <div class="container">
         <div class="editor-container">
-            <textarea id="editor" placeholder=></textarea>
+            <textarea id="editor" placeholder="Type here..."></textarea>
         </div>
+
+
+        
 
         <div class="keyboard" id="keyboard">
             <h2 class="keyboard-header">Keyboard</h2>
@@ -60,6 +70,12 @@
                 <button class="key">M</button>
             </div>
         </div>
+
+        <div class="result-container" id="resultContainer" style="display:none;">
+            <h2 id="resultMessage"></h2>
+            <p id="resultTime"></p>
+        </div>
+
     </div>
 
     <script src="script.js"></script>
