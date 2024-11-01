@@ -4,13 +4,13 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Code_breakerzz
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Sangeeth Sagaran K S- Government Engineering College, Idukki
+- Member 2: Devadarsh Babu -  Government Engineering College, Idukki
+- Member 3: Nayana Ravendran-  Government Engineering College, Idukki
 
 ### Project Description
 [2-3 lines about what your project does]
