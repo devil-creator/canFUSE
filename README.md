@@ -1,5 +1,7 @@
 # canFUSE - Interactive Keyboard Interface
 
+**[Try the live bot here!](https://devil-creator.github.io/canFUSE/)**
+
 ## Overview
 
 canFUSE is an interactive keyboard interface project designed to provide a fun and engaging typing experience. The project features a visually appealing comic-themed keyboard where keys are arranged in a standard keyboard layout. Once a key is clicked, the keys move randomly within their container, adding an element of interactivity. Users can type in a text area, which reflects the keys pressed.
