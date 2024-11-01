@@ -30,8 +30,7 @@ To run this project locally, follow these steps:
    cd canFUSE
 
 ### Customization Tips:
-1. **Update Repository Links**: Make sure to replace `yourusername` with your actual GitHub username in the clone link.
+1. **Update Repository Links**: Make sure to replace `devil-creator` with your actual GitHub username in the clone link.
 2. **Add License Information**: If you choose a specific license, include a LICENSE file in your repository and mention it in the README.
 3. **Project Enhancements**: Feel free to modify the features and usage sections if you add more functionalities or make significant changes in the future. 
 
-This README provides a solid foundation for users to understand what your project is about, how to use it, and how to contribute.
