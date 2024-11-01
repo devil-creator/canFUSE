@@ -13,10 +13,10 @@
 - Member 3: Nayana Ravendran-  Government Engineering College, Idukki
 
 ### Project Description
-[2-3 lines about what your project does]
+The canFUSE text editor transforms typing into an entertaining experience. By adding humor, playful interactions, and creative wordplay, canFUSE turns a routine activity into a source of enjoyment and self-expression. With features that surprise and amuse, it provides a refreshing break from traditional editing, ensuring that users not only get their work done but also have fun doing it.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+In a digital world, typing has become a daily routine for millions, whether for work, study, or creation. However, traditional text editors lack humor or engagement, making the experience monotonous and draining, often stifling creativity and motivation.
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
