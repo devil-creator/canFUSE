@@ -1,5 +1,8 @@
 const editor = document.getElementById('editor');
 const keys = document.querySelectorAll(".key");
+const saveButton = document.getElementById('saveButton');
+const loadButton = document.getElementById('loadButton');
+const clearButton = document.getElementById('clearButton');
 let isMoving = false; // Flag to check if keys are moving
 
 // Initial setup to arrange keys in keyboard layout
@@ -21,6 +24,31 @@ function arrangeKeys() {
 
 // Call the function to arrange keys initially
 arrangeKeys();
+
+// Save the text to local storage
+saveButton.addEventListener('click', () => {
+    localStorage.setItem('savedText', editor.value);
+    alert("Text saved successfully!");
+});
+
+// Load the text from local storage and start moving keys
+loadButton.addEventListener('click', () => {
+    const savedText = localStorage.getItem('savedText');
+    if (savedText) {
+        editor.value = savedText; // Load the saved text into the editor canvas
+    } else {
+        alert("No text found to load.");
+    }
+    if (!isMoving) {
+        isMoving = true; // Start moving keys on load
+        moveKeys();
+    }
+});
+
+// Clear the text editor
+clearButton.addEventListener('click', () => {
+    editor.value = '';
+});
 
 // Add click event listener to each key
 keys.forEach(key => {
@@ -54,6 +82,3 @@ function moveKeys() {
     });
     setTimeout(moveKeys, 2000); // Move keys every 2 seconds
 }
-
-// Arrange keys initially
-arrangeKeys();
