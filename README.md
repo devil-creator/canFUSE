@@ -1,4 +1,4 @@
-<img width="1280" alt="readme-banner" src="https://github.com/devil-creator/canFUSE/blob/main/Screenshot%202024-11-02%20001830.png">
+<img width="1280" alt="readme-banner" src="https://github.com/devil-creator/canFUSE/blob/main/screenshot1.png">
 
 # canFUSE🎯
 
