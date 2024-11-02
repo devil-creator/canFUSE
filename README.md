@@ -27,11 +27,6 @@ For Software:
 - HTML,CSS
 - VS Code
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
 ### Implementation
 For Software:
 # Installation
@@ -81,8 +76,6 @@ For Hardware:
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - Sangeeth Sagaran K S: Developer, UI/UX Design
