@@ -43,7 +43,8 @@ For Software:
 # Screenshots (Add at least 3)
 ![Screenshot1](./screenshot/screenshot1.png)
 ![Screenshot2](./screenshot/screenshot2.png)
-![Screenshot3](./screenshot/screenshot3.png)
+![Screenshot3](./screenshot3.png)
+
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
