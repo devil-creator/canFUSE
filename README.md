@@ -79,7 +79,7 @@ For Hardware:
 ## Team Contributions
 - Sangeeth Sagaran K S: Developer, UI/UX Design
 - Devadarsh Babu: Testing, Documentation
-- Nayana Ravendran: UI/UX Design, Documentation
+- Nayana Raveendran: UI/UX Design, Documentation
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
