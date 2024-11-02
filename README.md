@@ -19,20 +19,13 @@ The canFUSE text editor transforms typing into an entertaining experience. By ad
 In a digital world, typing has become a daily routine for millions, whether for work, study, or creation. However, traditional text editors lack humor or engagement, making the experience monotonous and draining, often stifling creativity and motivation.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+The canFUSE text editor transforms typing into a fun, engaging experience. By adding humor, playful interactions, and creative surprises, canFUSE makes writing enjoyable and refreshing, helping users stay motivated and inspired during even the longest typing sessions.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- HTML,CSS
+- VS Code
 
 ### Implementation
 For Software:
@@ -83,13 +76,12 @@ For Hardware:
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Sangeeth Sagaran K S: Developer, UI/UX Design
+- Devadarsh Babu:Testing, Documentation
+- Nayana Ravendran:UI/UX Design, Documentation
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
