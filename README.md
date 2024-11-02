@@ -41,8 +41,8 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-./screenshot/screenshot1.png
-./screenshot/screenshot2.png
+![Screenshot1](./screenshot/screenshot1.png)
+![Screenshot2](./screenshot/screenshot2.png)
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
