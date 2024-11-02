@@ -23,7 +23,7 @@ The canFUSE text editor transforms typing into a fun, engaging experience. By ad
 
 ### Technologies/Components Used
 For Software:
-- HTML, CSS, 
+- HTML, CSS
 - Javascript
 - VS Code
 
@@ -41,7 +41,8 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-
+./screenshot/screenshot1.png
+./screenshot/screenshot2.png
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -76,8 +77,8 @@ For Hardware:
 
 ## Team Contributions
 - Sangeeth Sagaran K S: Developer, UI/UX Design
-- Devadarsh Babu:Testing, Documentation
-- Nayana Ravendran:UI/UX Design, Documentation
+- Devadarsh Babu: Testing, Documentation
+- Nayana Ravendran: UI/UX Design, Documentation
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
