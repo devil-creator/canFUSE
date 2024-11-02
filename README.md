@@ -30,7 +30,7 @@ For Software:
 
 
 ### Implementation
-For Software:
+The Frustration Keyboard uses JavaScript to detect clicks on each key and triggers random movement within a set pixel range every 300ms. Keys shift in various directions within their area, giving the illusion of “dodging” the user’s touch. CSS boundaries ensure the keys remain in their designated zones. Users can also toggle between normal and frustration modes for a customizable experience.
 # Installation
 [commands]
 
